@@ -1,0 +1,56 @@
+@font-face {
+  font-family: WorkSans-Bold;
+  src: url(font/WorkSans-Bold.ttf);
+}
+
+@font-face {
+  font-family: WorkSans-Medium;
+  src: url(font/WorkSans-Medium.ttf);
+}
+
+@font-face {
+  font-family: WorkSans-Regular;
+  src: url(font/WorkSans-Regular.ttf);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.login-container {
+  width: 90%;
+  height: 300px;
+  border-radius: 4px;
+  margin: 0 auto;
+}
+
+.welcome-header {
+  font-size: 18px;
+  font-family: "WorkSans-Bold";
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 8px;
+}
+
+.instruction {
+  text-align: center;
+}
+
+.body-color {
+  background-color: #f4f6f8;
+}
+
+.login-container-shadow {
+  -webkit-box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.dark-grey {
+  color: #202020;
+}
+/*# sourceMappingURL=root.css.map */

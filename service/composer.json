@@ -1,0 +1,13 @@
+{
+  "name": "harry/digitalearners",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Daniel Walter",
+      "email": "Walter@chigispoft.com"
+    }
+  ],
+  "require": {
+    "sendgrid/sendgrid": "~7"
+  }
+}

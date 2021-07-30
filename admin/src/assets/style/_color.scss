@@ -1,0 +1,67 @@
+.body-color {
+  background-color: rgba(244, 246, 248, 1);
+}
+
+.login-container-shadow {
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+}
+
+.bg-white {
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.dark-grey {
+  color: rgba(32, 32, 32, 1);
+}
+
+.dark-grey-light {
+  color: rgba(32, 32, 32, 0.8);
+}
+
+.form-bg {
+  background-color: rgba(244, 246, 248, 1);
+}
+
+.orange-bg {
+  background-color: rgba(238, 100, 37, 1);
+  color: rgba(244, 246, 248, 1);
+}
+
+.orange-btn {
+  transition: all ease-in-out 0.4s;
+}
+.orange-btn:hover {
+  background-color: rgba(166, 61, 12, 1);
+}
+
+.blue-color {
+  color: rgba(18, 50, 177, 1);
+}
+
+.blue-bg {
+  background-color: rgba(18, 50, 177, 1);
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus {
+  border: 1px solid rgba(18, 50, 177, 1);
+}
+
+.confirmed-green {
+  background-color: green;
+}
+
+.nav-bg {
+  background-color: rgba(13, 10, 47, 1);
+}
+
+.white-color {
+  color: rgba(255, 255, 255, 1);
+}
+
+.edit-tab-action.active-tab:hover,
+.edit-tab-action.active-tab,
+.edit-tab-action:hover {
+  background-color: rgba(18, 50, 177, 1);
+  color: white !important;
+}
